@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cafe House</string>
+    <string name="login_btn">welcome to recipe</string>
+    <string name="register_btn">Register</string>
+    <string name="or_with">Or With</string>
+    <string name="already_login">Already Have Account?Login</string>
+    <string name="ingridents">Ingredients:-</string>
+    <string name="procedure">Procedure:-</string>
+</resources>
